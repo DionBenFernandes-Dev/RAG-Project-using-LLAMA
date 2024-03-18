@@ -127,4 +127,7 @@ print(response)
 - The output includes various responses to queries, along with their sources.
 - Additionally, it demonstrates the loading and creation of an index, ensuring persistence for future use.
 
+
 ![O1](https://github.com/DionBenFernandes-Dev/RAG-Project-using-LLAMA/blob/main/Screenshot%202024-03-18%20121558.png)
+
+![O2](https://github.com/DionBenFernandes-Dev/RAG-Project-using-LLAMA/blob/main/Screenshot%202024-03-18%20121703.png)
